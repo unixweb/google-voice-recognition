@@ -6,7 +6,7 @@ Google Assistant AIY Voice Kit
 	*  1 Google Voice Kit incl. Raspberry Pi
 	*  1 Raspberry Pi with Unicorn HAT 
 
-## Python 3
+## Python 3 for Raspberry with Unicorn HAT
 
 	sudo apt-get install python3-pip python3-dev
 	sudo pip3 install unicornhat
@@ -14,6 +14,8 @@ Google Assistant AIY Voice Kit
 Alternative :
 
 	 curl -sS https://get.pimoroni.com/unicornhat | bash
+
+## Install Google AIY Vocie SDK Kit:
 
 	 git clone https://github.com/google/aiyprojects-raspbian.git voice-recognizer-raspi
 
