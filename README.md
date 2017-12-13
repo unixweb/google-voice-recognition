@@ -82,3 +82,8 @@ Edit the colour.py if you like to change colors and implement more features.
 
  Using : "Hey Google, turn raspberry off"
 
+# Youtube Video - Google Voice Kit and Unicorn Hat in action
+
+https://www.youtube.com/watch?v=Y2POBkDlNpk
+
+
