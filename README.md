@@ -52,4 +52,10 @@ Start and Check if some errors:
 
 
 
+## Raspberry Pi Unicorn Hat
+
+	sudo python /home/rpi/google-voice-recognition/main.py
+
+Edit the colour.py if you like to change colors and implement more features.
+
 
