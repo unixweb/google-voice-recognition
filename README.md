@@ -1,6 +1,8 @@
 # google-voice-recognition
 Google Assistant AIY Voice Kit
 
+<img src=http://wiki.joachimhummel.de/images/thumb/e/ee/Google_Voice_AIY_Kit.jpeg/576px-Google_Voice_AIY_Kit.jpeg" weight="200" >
+
 ## Prerequisite
 
 	*  1 Google Voice Kit incl. Raspberry Pi
