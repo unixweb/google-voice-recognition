@@ -10,6 +10,7 @@ Google Assistant AIY Voice Kit
 
 	sudo apt-get install python3-pip python3-dev
 	sudo pip3 install unicornhat
+	sudo pip3 install paho-mqtt
 
 Alternative :
 
@@ -18,6 +19,10 @@ Alternative :
 ## Install Google AIY Vocie SDK Kit:
 
 	 git clone https://github.com/google/aiyprojects-raspbian.git voice-recognizer-raspi
+	
+## Install mosquitto client on Google AIY Voice Kit:
+
+	 sudo apt install mosquitto-clients
 
 ## Further Info about Google AIY Voice Kit
 
@@ -50,7 +55,7 @@ Install as a service  in /lib/systemd/system/voice-recognizer.service
 
  * Replace the ExecStart Path and install the "main.py" for Google AIY in /home/pi/voice-recognizer-raspi/src
 
-Start and Check if some errors:
+Start and check if some errors:
 
 	sudo service voice-recognizer start
 	sudo service voice-recognizer status
