@@ -16,7 +16,7 @@ Alternative :
 
 	 curl -sS https://get.pimoroni.com/unicornhat | bash
 
-## Install Google AIY Vocie SDK Kit:
+## Install Google AIY Voice SDK Kit:
 
 	 git clone https://github.com/google/aiyprojects-raspbian.git voice-recognizer-raspi
 	
