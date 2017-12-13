@@ -42,7 +42,7 @@ Install as a service  in /lib/systemd/system/voice-recognizer.service
 
 
 
-Replace the ExecStart Path and install the main.py for Google AIY in /home/pi/voice-recognizer-raspi/src
+ * Replace the ExecStart Path and install the main.py for Google AIY in /home/pi/voice-recognizer-raspi/src
 
 Start and Check if some errors:
 
