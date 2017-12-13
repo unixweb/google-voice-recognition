@@ -17,11 +17,11 @@ Alternative :
 
 	 git clone https://github.com/google/aiyprojects-raspbian.git voice-recognizer-raspi
 
-
+## Further Info about Google AIY Voice Kit
 https://aiyprojects.withgoogle.com/voice/#makers-guide-1-1--source-code
 
 
-Install as a service 
+Install as a service  in /lib/systemd/system/voice-recognizer.service
 	
 	[Unit]
 	Description=voice recognizer
@@ -39,4 +39,17 @@ Install as a service
 
 	[Install]
 	WantedBy=multi-user.target
+
+
+
+Replace the ExecStart Path and install the main.py for Google AIY in /home/pi/voice-recognizer-raspi/src
+
+Start and Check if some errors:
+
+	sudo service voice-recognizer start
+	sudo service voice-recognizer status
+
+
+
+
 
