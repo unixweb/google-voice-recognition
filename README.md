@@ -62,4 +62,15 @@ Start and Check if some errors:
 
 Edit the colour.py if you like to change colors and implement more features.
 
+#  MQTT Testing
+  Using :  mosquitto_pub -h mqtt.unixweb.de -t mygoogleassistant -m "red"
+  Using :  mosquitto_pub -h mqtt.unixweb.de -t mygoogleassistant -m "blue"
+  Using :  mosquitto_pub -h mqtt.unixweb.de -t mygoogleassistant -m "green"
+  Using :  mosquitto_pub -h mqtt.unixweb.de -t mygoogleassistant -m "clear"
+
+# Google AIY Voice Kit
+ Using : "Hey Google, turn raspberry blue on"
+ Using : "Hey Google, turn raspberry red on"
+ Using : "Hey Google, turn raspberry green on"
+ Using : "Hey Google, turn raspberry off"
 
