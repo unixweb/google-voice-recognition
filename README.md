@@ -19,6 +19,7 @@ Alternative :
 
 ## Further Info about Google AIY Voice Kit
 https://aiyprojects.withgoogle.com/voice/#makers-guide-1-1--source-code
+https://aiyprojects.withgoogle.com/voice/#makers-guide-3-4--run-your-app-automatically
 
 
 Install as a service  in /lib/systemd/system/voice-recognizer.service
